@@ -1,2 +1,5 @@
-# neovim
-My Neovim Config
+# Neovim
+This config works.
+# TODO
+- [ ] Fold
+- [ ] Test with Ruby
